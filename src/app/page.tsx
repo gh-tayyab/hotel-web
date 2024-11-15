@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center">
       {/* Header Banner Section */}
       <section className="relative w-full h-[50vh] sm:h-[60vh] lg:h-[70vh] flex items-center justify-center">
-        <Image src="/image1.jpeg" alt="Fusion Delicacies Banner" layout="fill" objectFit="cover" className="z-[-1]" />
+        <Image src="/image1.jpeg" alt="Fusion Delicacies Banner" layout="fill" objectFit="cover" className="" />
       </section>
 
       {/* Coming Soon Section */}
